@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    background-color: rgb(223, 20, 20);
+}
+a{
+    text-decoration: none;
+}
+.site{
+    max-width: 400px;
+    margin: 100px auto 0 auto;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.527);
+    padding: 20px;
+    border-radius: 20px;
+    
+
+}
+
+#title1{
+    margin-top: 40px;
+}
+
+.botao{
+    background-color: #ccc;
+    margin: 80px 0 80px 0;
+    padding: 30px;
+    border-radius: 10px;
+
+
+}
+
+.botao:hover{
+    background-color:rgb(133, 133, 133) ;
+
+}
+
+#RGB{
+    margin-bottom: 40px;
+
+}
+
+#dev{
+    text-align: center;
+        
+}
+
+#dev a{
+    color: black;
+}
+#dev a:hover{
+    color: #ccc;
+}
